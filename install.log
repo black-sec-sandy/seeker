@@ -1,0 +1,8 @@
+Get:1 http://linux.teamviewer.com/deb stable InRelease [9388 B]
+Ign:2 http://deb.debian.org/debian jessie InRelease
+Hit:3 http://deb.debian.org/debian jessie Release
+Ign:5 http://download.virtualbox.org/virtualbox/debian kali-rolling InRelease
+Err:7 http://download.virtualbox.org/virtualbox/debian kali-rolling Release
+  404  Not Found [IP: 49.44.144.166 80]
+Get:6 https://mirror.karneval.cz/pub/linux/kali kali-rolling InRelease [30.5 kB]
+Get:8 https://mirror.karneval.cz/pub/linux/kali kali-rolling/main amd64 Packages [16.4 MB]
